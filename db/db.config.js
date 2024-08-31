@@ -14,4 +14,4 @@ const mongoConnection = async () => {
     }
 }
 
-module.exports = mongoConnection
+module.exports = mongoConnection 
